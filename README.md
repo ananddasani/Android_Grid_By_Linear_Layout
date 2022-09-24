@@ -1,6 +1,8 @@
 # Android_Grid_By_Linear_Layout
 Making Grid Like Layout Using Linear Layout &amp;&amp; Layout_Weight
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 #### 1st Activity 
